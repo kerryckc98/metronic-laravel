@@ -8,8 +8,9 @@
 2. Run 'composer install'
 3. Run 'yarn'
 4. Run 'npm run dev'
-5. Run 'php artisan key:generate'
-6. Run 'php artisan migrate:fresh --seed'
+5. Make a copy of .env.example and rename as .env
+6. Run 'php artisan key:generate'
+7. Run 'php artisan migrate:fresh --seed'
 
 ## Run the system
 6. Run 'php artisan serve'
